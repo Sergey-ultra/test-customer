@@ -1,0 +1,11 @@
+{
+    "name": "app/categories",
+    "type": "dev",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
